@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/markdown_editor/static/css/main.4b8a7ec4.chunk.css",
-    "main.js": "/markdown_editor/static/js/main.4111ee72.chunk.js",
-    "main.js.map": "/markdown_editor/static/js/main.4111ee72.chunk.js.map",
-    "runtime~main.js": "/markdown_editor/static/js/runtime~main.48126919.js",
-    "runtime~main.js.map": "/markdown_editor/static/js/runtime~main.48126919.js.map",
-    "static/js/2.56497267.chunk.js": "/markdown_editor/static/js/2.56497267.chunk.js",
-    "static/js/2.56497267.chunk.js.map": "/markdown_editor/static/js/2.56497267.chunk.js.map",
-    "index.html": "/markdown_editor/index.html",
-    "precache-manifest.2a8a9f6e1efafbfc85044df5cd2aaf6e.js": "/markdown_editor/precache-manifest.2a8a9f6e1efafbfc85044df5cd2aaf6e.js",
-    "service-worker.js": "/markdown_editor/service-worker.js",
-    "static/css/main.4b8a7ec4.chunk.css.map": "/markdown_editor/static/css/main.4b8a7ec4.chunk.css.map"
+    "main.css": "/marktor/static/css/main.4b8a7ec4.chunk.css",
+    "main.js": "/marktor/static/js/main.4111ee72.chunk.js",
+    "main.js.map": "/marktor/static/js/main.4111ee72.chunk.js.map",
+    "runtime~main.js": "/marktor/static/js/runtime~main.6195a6b8.js",
+    "runtime~main.js.map": "/marktor/static/js/runtime~main.6195a6b8.js.map",
+    "static/js/2.56497267.chunk.js": "/marktor/static/js/2.56497267.chunk.js",
+    "static/js/2.56497267.chunk.js.map": "/marktor/static/js/2.56497267.chunk.js.map",
+    "index.html": "/marktor/index.html",
+    "precache-manifest.62661a2cb2a8344dc682573e53704558.js": "/marktor/precache-manifest.62661a2cb2a8344dc682573e53704558.js",
+    "service-worker.js": "/marktor/service-worker.js",
+    "static/css/main.4b8a7ec4.chunk.css.map": "/marktor/static/css/main.4b8a7ec4.chunk.css.map"
   }
 }
