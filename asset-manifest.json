@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/marktor/static/css/main.0ebecb75.chunk.css",
+    "main.css": "/marktor/static/css/main.df0c9895.chunk.css",
     "main.js": "/marktor/static/js/main.4111ee72.chunk.js",
     "main.js.map": "/marktor/static/js/main.4111ee72.chunk.js.map",
     "runtime~main.js": "/marktor/static/js/runtime~main.6195a6b8.js",
@@ -8,8 +8,8 @@
     "static/js/2.56497267.chunk.js": "/marktor/static/js/2.56497267.chunk.js",
     "static/js/2.56497267.chunk.js.map": "/marktor/static/js/2.56497267.chunk.js.map",
     "index.html": "/marktor/index.html",
-    "precache-manifest.2c24c940c05a21620cd5b39cd26e67cc.js": "/marktor/precache-manifest.2c24c940c05a21620cd5b39cd26e67cc.js",
+    "precache-manifest.f6889b868c00eed56b7348270fc65145.js": "/marktor/precache-manifest.f6889b868c00eed56b7348270fc65145.js",
     "service-worker.js": "/marktor/service-worker.js",
-    "static/css/main.0ebecb75.chunk.css.map": "/marktor/static/css/main.0ebecb75.chunk.css.map"
+    "static/css/main.df0c9895.chunk.css.map": "/marktor/static/css/main.df0c9895.chunk.css.map"
   }
 }
