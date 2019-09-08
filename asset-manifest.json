@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/marktor/static/css/main.6ed6083f.chunk.css",
+    "main.css": "/marktor/static/css/main.4f334e01.chunk.css",
     "main.js": "/marktor/static/js/main.8eae4643.chunk.js",
     "main.js.map": "/marktor/static/js/main.8eae4643.chunk.js.map",
     "runtime~main.js": "/marktor/static/js/runtime~main.6195a6b8.js",
@@ -8,8 +8,8 @@
     "static/js/2.56497267.chunk.js": "/marktor/static/js/2.56497267.chunk.js",
     "static/js/2.56497267.chunk.js.map": "/marktor/static/js/2.56497267.chunk.js.map",
     "index.html": "/marktor/index.html",
-    "precache-manifest.205893c926a9cd94a99fbfdfad6794b7.js": "/marktor/precache-manifest.205893c926a9cd94a99fbfdfad6794b7.js",
+    "precache-manifest.77b834a0e3d1b41ce050918d7a883ce8.js": "/marktor/precache-manifest.77b834a0e3d1b41ce050918d7a883ce8.js",
     "service-worker.js": "/marktor/service-worker.js",
-    "static/css/main.6ed6083f.chunk.css.map": "/marktor/static/css/main.6ed6083f.chunk.css.map"
+    "static/css/main.4f334e01.chunk.css.map": "/marktor/static/css/main.4f334e01.chunk.css.map"
   }
 }
